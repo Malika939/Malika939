@@ -22,4 +22,7 @@ Latest YouTube Videos
 ![FullStack](https://img.shields.io/badge/-Fullstack-505090?style=for-the-badge&logo=appveyor)
 
 ## Follow Me
-![Instagram]()
+![Instagram](https://www.instagram.com/939.malika/)
+![VK](http://vk.com/id505205194)
+![Facebook](https://www.facebook.com/profile.php?id=100020161446776)
+![TikTok](https://vm.tiktok.com/ZSJQVNNbN/)
